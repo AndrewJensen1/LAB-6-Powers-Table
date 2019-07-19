@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp2.1\Lab 6 Powers Table.deps.json
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp2.1\Lab 6 Powers Table.runtimeconfig.json
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp2.1\Lab 6 Powers Table.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp2.1\Lab 6 Powers Table.dll
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp2.1\Lab 6 Powers Table.pdb
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp2.1\Lab 6 Powers Table.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp2.1\Lab 6 Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp2.1\Lab 6 Powers Table.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp2.1\Lab 6 Powers Table.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp2.1\Lab 6 Powers Table.dll
+C:\Users\Jense\source\repos\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp2.1\Lab 6 Powers Table.pdb

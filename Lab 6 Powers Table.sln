@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 6 Powers Table", "Lab 6 Powers Table\Lab 6 Powers Table.csproj", "{10894F38-C22A-4FD9-A6EC-038E68E8C175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10894F38-C22A-4FD9-A6EC-038E68E8C175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10894F38-C22A-4FD9-A6EC-038E68E8C175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10894F38-C22A-4FD9-A6EC-038E68E8C175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10894F38-C22A-4FD9-A6EC-038E68E8C175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {631A7F31-2788-4B85-B0BC-85B5EDE5148D}
+	EndGlobalSection
+EndGlobal
